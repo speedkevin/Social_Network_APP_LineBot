@@ -1,0 +1,17 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^5.0.1",
+    "express": "^4.16.2",
+    "linebot": "^1.3.0",
+    "mongoose": "^4.13.5"
+  }
+}
